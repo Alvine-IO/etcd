@@ -6,6 +6,8 @@ This repository provides a client library for etcd for PHP applications.
 
 ## Installing and running etcd
 
+Download Library from http://download.alvine.io
+
 ```bash
 wget http://download.alvine.io/alvine.infrastructure.coreos-<version>.phar
 wget http://download.alvine.io/alvine.infrastructure.coreos-<version>.phar.pubkey
